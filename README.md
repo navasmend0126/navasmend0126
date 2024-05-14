@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm currently studying python language on VScode.
+I'm learning about AI, machine learning, neural networks, etc.
 <!--
 **navasmend0126/navasmend0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
