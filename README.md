@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm currently studying software development and management.
-- I'm learning about AI(machine learning, neural networks, etc) on python.
+- I'm learning about AI (machine learning, neural networks, etc) on python.
 <!--
 **navasmend0126/navasmend0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
